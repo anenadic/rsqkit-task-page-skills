@@ -91,6 +91,7 @@ Claude will also report:
 - **Potential new tool entries** — links that look like tools but aren't in the registry yet, with suggested YAML entries you can add to `_data/tool_and_resource_list.yml`
 
 If Claude suggests new tool entries, copy the suggested YAML and add it to `_data/tool_and_resource_list.yml` into your RSQKit repository fork (or branch) before submitting your page as a pull request.
+
 ---
 
 ### Step 4 — Generate the front matter
