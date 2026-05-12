@@ -13,7 +13,7 @@
 
 
 
-## Aims and objectives
+## Objectives
 
 Overall aim of the contentathon is to create drafts of task pages for inclusion into RSQKit.
 Drafts can either be created manually from scratch or with the help of an AI which will then need to be reviewed manually by the authors (in the first instance) and then the RSQKit Editorial Board.
