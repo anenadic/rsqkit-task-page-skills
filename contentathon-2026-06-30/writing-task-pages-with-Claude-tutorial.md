@@ -61,7 +61,7 @@ Steps 2 and 3 can be swapped. Step 4 can run any time after step 1. Always start
 
 ### Step 1 — `rsqkit-task-page`: write the draft
 
-This is the core skill. Give Claude a topic and it will produce a complete task page: one or more H2 task questions, each with Description, Considerations, and Solutions sub-sections, plus a Further Reading section. It writes in the second person throughout and uses plain Markdown links.
+This is the core skill. Give Claude a topic and it will produce a complete task page: one or more Task Questions (as H2 headings), each with Description, Considerations, and Solutions sub-sections, plus a Further Reading section. It writes in the second person throughout and uses plain Markdown links.
 
 If the topic naturally breaks into two or more distinct sub-tasks, Claude will produce multiple H2 blocks automatically. Review the draft carefully — check that the content is accurate and the balance between sections feels right before moving on.
 
