@@ -14,7 +14,17 @@
 
 ---
 
-## What are skills?
+## What are RSQKit task pages?
+
+Tasks are typical activities undertaken throughout research software lifecycle around engineering, development, sharing, publishing, deploying and maintenance of research software.
+Each task offers a list of considerations to be taken into account when performing the task, good practices and guidelines, relevant tools and resources recommended by communities and links to training materials relevant for the task.
+It typically does not offer an in depth instructions on how to perform the task - instead it give a high level overview of why the task is important and should be embedded in the lifecycle with pointers to official documentation and tutorials for further learning.
+
+See existing pages at: https://everse.software/RSQKit/tasks.
+
+--- 
+
+## What are Claude skills?
 
 Skills are instruction files that tell Claude how to do a specific task — consistently, every time. You install them once into the Claude desktop app (under Settings → Skills), and Claude automatically uses the right one when you describe what you want. The four skills in this tutorial work as a sequence: you write a draft, optionally enrich it with sources, tidy up tool links, then generate metadata.
 
