@@ -1,4 +1,4 @@
-# Drafting RSQKit task pages with Claude AI
+# Tutorial: Drafting RSQKit task pages with Claude AI
 
 **Tutorial · approximately 1 hour · works in Claude.ai desktop**
 
