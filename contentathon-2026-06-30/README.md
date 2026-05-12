@@ -3,7 +3,7 @@
 ## Team
 Shoaib Sufi, Laura Portell, Aleks Nenadic
 
-## Aims and objectives
+## Aims
 
 The aim of the contentathon is to create drafts of task pages for inclusion into RSQKit and to make pull requests for the RSQKit Editorial Board to review. 
 
