@@ -26,7 +26,7 @@ See existing pages at: https://everse.software/RSQKit/tasks.
 
 ## What are Claude skills?
 
-Skills are instruction files that tell Claude how to do a specific task — consistently, every time. You install them once into the Claude desktop app (under Settings → Skills), and Claude automatically uses the right one when you describe what you want. The four skills in this tutorial work as a sequence: you write a draft, optionally enrich it with sources, tidy up tool links, then generate metadata.
+Skills are instruction files that tell Claude how to do a specific task — consistently, every time. You install them once into the Claude desktop app (under Custimise → Skills), and Claude automatically uses the right one when you describe what you want. The four skills in this tutorial work as a sequence: you write a draft, optionally enrich it with sources, tidy up tool links, then generate metadata.
 
 ---
 
